@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  background: black;
+  color: white;
+}
+
+.header-section {
+  margin: 100px auto 0;
+}
+.box {
+  background-color: red;
+  width: 10rem;
+  height: 10rem;
+}
+
+#app {
+  min-height: 200vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: gray;
+}
+svg {
+  width: 100%;
+}
+.path {
+  stroke: red;
+}
